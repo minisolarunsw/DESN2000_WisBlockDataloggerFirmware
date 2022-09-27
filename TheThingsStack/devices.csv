@@ -1,0 +1,2 @@
+device_id,name(optional),description(optional),dev_eui,join_eui,app_key,lorawan_version,lorawan_phy_version,frequency_plan_id
+example-device,Example Device Creation,Delete this row,ABCDEF0123456789,,,MAC_V1_0_2,RP001_V1_0_2_REV_B,AU_915_928_FSB_2
